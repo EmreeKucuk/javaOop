@@ -1,5 +1,3 @@
-  Java GUI Applications
-
 Java GUI Applications
 =====================
 
